@@ -172,7 +172,7 @@ const Projects = () => {
                 title="NPS Mobile App"
                 img={project2}
                 summary="npsExplorer is a group project which resulted in a mobile-first application, offering users a personalized exploration experience of U.S. National Parks. Working as part of a small, dynamic team, I contributed my expertise in the MERN (MongoDB, Express, React, Node.js) stack, alongside Mongoose for effective MongoDB object modeling. The group-effort application presents extensive park details, suggested activities, historical context, and mesmerizing visuals, all sourced via the National Park Service API. I was personally responsible for incorporating a functionality that allows user image uploads through Uploadcare. This group project effectively showcases my skills in collaboratively developing visually-engaging applications, using a NoSQL backend and React frontend."
-                link="https://645ae12259fd3d52913fb954--grand-sunflower-c807ab.netlify.app/"
+                link="https://nationalparkstogoto.netlify.app"
                 github="https://github.com/abdallah1936/npsexplorer-client"
                 type="Featured Project"
               />
