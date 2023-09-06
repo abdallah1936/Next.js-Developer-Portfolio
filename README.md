@@ -15,7 +15,7 @@ Developed a PONG game using Unity and C# within one week while learning a new la
 ### [Tic-Tac-Toe](https://tik-tak-toe-v2-0.vercel.app/)
 Developed a desktop version of the Tic-Tac-Toe game using React.
 
-### [Full-Stack MERN Web App](https://645ae12259fd3d52913fb954--grand-sunflower-c807ab.netlify.app/)
+### [Full-Stack MERN Web App](https://nationalparkstogoto.netlify.app)
 Collaborated with a team to develop a full-stack application using MERN (MongoDB, Express.js, React.js, Node.js). Integrated an external API for looking up different national parks.
 
 ### Favorite Animals Web App
